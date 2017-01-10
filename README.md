@@ -1,4 +1,4 @@
-# babel-vs-code source map woes
+# babel-vscode-source-map-woes
 
 - `npm|yarn install`
 - `babel input.js --source-maps > out.js`
