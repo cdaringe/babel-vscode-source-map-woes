@@ -1,5 +1,7 @@
 # babel-vscode-source-map-woes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/babel-vscode-source-map-woes.svg)](https://greenkeeper.io/)
+
 - `npm|yarn install`
 - `babel input.js --source-maps > out.js`
 - `node --debug-brk out.js`
